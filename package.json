@@ -16,19 +16,19 @@
     "commands": [
       {
         "command": "vscode-restart.prompt-restart",
-        "title": "Restart Code With Y/N Prompt"
+        "title": "Restart With Y/N Prompt"
       },
       {
         "command": "vscode-restart.no-prompt-restart",
-        "title": "Restart Code Without Prompting"
+        "title": "Restart Without Prompting"
       },
       {
         "command": "vscode-restart.prompt-quit",
-        "title": "Quit Code With Y/N Prompt"
+        "title": "Quit With Y/N Prompt"
       },
       {
         "command": "vscode-restart.no-prompt-quit",
-        "title": "Quit Code Without Prompting"
+        "title": "Quit Without Prompting"
       }
     ]
   },
