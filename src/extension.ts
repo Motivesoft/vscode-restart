@@ -1,9 +1,6 @@
 import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
-
-	console.log('Extension "vscode-restart" is now active');
-
 	context.subscriptions.push(vscode.commands.registerCommand('vscode-restart.prompt-restart', () => {
 	    vscode.window.showWarningMessage('Are you sure you want to restart VS Code?', 'Yes', 'No')
         .then(selection => {
