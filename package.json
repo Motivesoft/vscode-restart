@@ -1,7 +1,9 @@
 {
   "name": "vscode-restart",
   "displayName": "Code Restart",
-  "description": "Provides an easy way to restart Code",
+  "description": "Provides an easy way to restart or quit Code",
+  "license": "MIT",
+  "icon": "images/icon.png",
   "publisher": "motivesoft",
   "author": {
     "name": "ianabrown",
