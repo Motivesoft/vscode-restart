@@ -14,6 +14,10 @@ None
 
 ## Release Notes
 
+### 1.0.3
+
+- Dependency update
+
 ### 1.0.2
 
 - Dependency update
